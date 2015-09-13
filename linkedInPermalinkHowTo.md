@@ -11,7 +11,9 @@ The good news is, you can change it.
 
 Sign into LinkedIn.com
 Go to Account & Settings >> Privacy & Settings
+
 Then go to “Edit your public profile”
+
 Choose something easy to remember like a variation of your name
 
 ##How to Choose a LinkedIn URL
