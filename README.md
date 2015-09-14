@@ -21,5 +21,5 @@ That old abandoned place you call home #room20
 * Tanner Davis - [Github](https://github.com/TannerBD), [LinkedIn](https://www.linkedin.com/in/TannerBD), [Twitter](https://twitter.com/Tanner_BD)
 * Clifton Kimber - [Github](https://github.com/C-Kimber), [LinkedIn](https://www.linkedin.com/in/ctkimber), [Twitter](https://twitter.com/C_Kimber_)
 * Jonathan Kinney - [Github](https://github.com/JKatc), [LinkedIn](https://www.linkedin.com/in/jkatc), [Twitter](https://twitter.com/JK_atc)
-* Brent Dalling - [Github](https://github.com/BrentDalling/404-ERROR-TEAM-PROJECTS), [LinkedIn](https://www.linkedin.com/in/weirdo), [Twitter](https://twitter.com/BrentDalling1)
+* Brent Dalling - [Github](https://github.com/BrentDalling), [LinkedIn](https://www.linkedin.com/in/weirdo), [Twitter](https://twitter.com/BrentDalling1)
 * Kaden Henselen - [Github](https://github.com/thestreetkid), [LinkedIn](https://www.linkedin.com/in/kadenhenselen), [Twitter](https://twitter.com/TheStreetKidXD)
