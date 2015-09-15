@@ -5,7 +5,7 @@ That old abandoned place you call home #room20
 ### C++ Programming class
 * Coston Perkins - [Github](https://github.com/coston/), [LinkedIn](https://www.linkedin.com/in/costonperkins), [Twitter](https://twitter.com/costonperkins)
 * Calé DeLaura - [Github](https://github.com/caledelaura), [LinkedIn](https://www.linkedin.com/in/caledelaura), [Twitter](https://twitter.com/calendelaura)
-* J.R. Brookins - [Github](https://github.com/BrookinsJ), [LinkedIn](www.linkedin.com/in/Brookinsjr), [Twitter](https://twitter.com/brookinsjg)
+* J.R. Brookins - [Github](https://github.com/BrookinsJ), [LinkedIn](https://www.linkedin.com/in/brookinsjr), [Twitter](https://twitter.com/brookinsjg)
 * Ainsley Hopkins - [Github](https://github.com/ainsleyhopkins), [LinkedIn](www.linkedin.com/in/ainsleyhopkins), [Twitter](https://twitter.com/HopkinsAinsley1)
 * Wyatt Giles - [Github](https://github.com/WyattGiles), [LinkedIn](https://www.linkedin.com/in/Wyatt Giles), [Twitter](https://twitter.com/Wyatt_Giles)
 * Haley Bogle - [Github](https://github.com/HaleyBogle), [LinkedIn](hwww.linkedin.com/in/haleybogle), [Twitter](https://twitter.com/haley_bogle)
@@ -23,5 +23,4 @@ That old abandoned place you call home #room20
 * Jonathan Kinney - [Github](https://github.com/JKatc), [LinkedIn](https://www.linkedin.com/in/jkatc), [Twitter](https://twitter.com/JK_atc)
 * Brent Dalling - [Github](https://github.com/BrentDalling), [LinkedIn](https://www.linkedin.com/in/weirdo), [Twitter](https://twitter.com/BrentDalling1)
 * Kaden Henselen - [Github](https://github.com/thestreetkid), [LinkedIn](https://www.linkedin.com/in/kadenhenselen), [Twitter](https://twitter.com/TheStreetKidXD)
-* Kaden Henselen - [Github](https://github.com/stevenshapley), [LinkedIn](https://www.linkedin.com/in/stevenshapley), [Twitter](https://twitter.com/Steven_Shapley)
 
