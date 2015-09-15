@@ -23,5 +23,5 @@ That old abandoned place you call home #room20
 * Jonathan Kinney - [Github](https://github.com/JKatc), [LinkedIn](https://www.linkedin.com/in/jkatc), [Twitter](https://twitter.com/JK_atc)
 * Brent Dalling - [Github](https://github.com/BrentDalling), [LinkedIn](https://www.linkedin.com/in/weirdo), [Twitter](https://twitter.com/BrentDalling1)
 * Kaden Henselen - [Github](https://github.com/thestreetkid), [LinkedIn](https://www.linkedin.com/in/kadenhenselen), [Twitter](https://twitter.com/TheStreetKidXD)
-* Kaden Henselen - [Github](https://github.com/stevenshapley), [LinkedIn](https://www.linkedin.com/in/stevenshapley), [Twitter](https://twitter.com/Steven_Shapley)
+* Steven Shapley - [Github](https://github.com/stevenshapley), [LinkedIn](https://www.linkedin.com/in/stevenshapley), [Twitter](https://twitter.com/Steven_Shapley)
 
