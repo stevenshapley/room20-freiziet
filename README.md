@@ -6,7 +6,7 @@ That old abandoned place you call home #room20
 * Coston Perkins - [Github](https://github.com/coston/), [LinkedIn](https://www.linkedin.com/in/costonperkins), [Twitter](https://twitter.com/costonperkins)
 * Calé DeLaura - [Github](https://github.com/caledelaura), [LinkedIn](https://www.linkedin.com/in/caledelaura), [Twitter](https://twitter.com/calendelaura)
 * J.R. Brookins - [Github](https://github.com/BrookinsJ), [LinkedIn](https://www.linkedin.com/in/brookinsjr), [Twitter](https://twitter.com/brookinsjg)
-+* Ainsley Hopkins - [Github](https://github.com/ainsleyhopkins), [LinkedIn](https://www.linkedin.com/in/ainsleyhopkins), [Twitter](https://twitter.com/HopkinsAinsley1)
+* Ainsley Hopkins - [Github](https://github.com/ainsleyhopkins), [LinkedIn](https://www.linkedin.com/in/ainsleyhopkins), [Twitter](https://twitter.com/HopkinsAinsley1)
 * Wyatt Giles - [Github](https://github.com/WyattGiles), [LinkedIn](https://www.linkedin.com/in/wyattgiles), [Twitter](https://twitter.com/Wyatt_Giles)
 * Haley Bogle - [Github](https://github.com/HaleyBogle), [LinkedIn](https://www.linkedin.com/in/haleybogle), [Twitter](https://twitter.com/haley_bogle)
 * Terry Black - [Github](https://github.com/Blacksnblack), [LinkedIn](https://www.linkedin.com/in/black1), [Twitter](https://twitter.com/TerryBl57840381)
