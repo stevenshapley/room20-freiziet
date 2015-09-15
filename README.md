@@ -7,7 +7,7 @@ That old abandoned place you call home #room20
 * Calé DeLaura - [Github](https://github.com/caledelaura), [LinkedIn](https://www.linkedin.com/in/caledelaura), [Twitter](https://twitter.com/calendelaura)
 * J.R. Brookins - [Github](https://github.com/BrookinsJ), [LinkedIn](www.linkedin.com/in/Brookinsjr), [Twitter](https://twitter.com/brookinsjg)
 * Ainsley Hopkins - [Github](https://github.com/ainsleyhopkins), [LinkedIn](www.linkedin.com/in/ainsleyhopkins), [Twitter](https://twitter.com/HopkinsAinsley1)
-* Wyatt Giles - [Github](https://github.com/WyattGiles), [LinkedIn](https://www.linkedin.com/in/Wyatt Giles), [Twitter](https://twitter.com/Wyatt_Giles)
+* Wyatt Giles - [Github](https://github.com/WyattGiles), [LinkedIn](https://www.linkedin.com/in/wyattgiles), [Twitter](https://twitter.com/Wyatt_Giles)
 * Haley Bogle - [Github](https://github.com/HaleyBogle), [LinkedIn](hwww.linkedin.com/in/haleybogle), [Twitter](https://twitter.com/haley_bogle)
 * Terry Black - [Github](https://github.com/Blacksnblack), [LinkedIn](www.linkedin.com/in/black1), [Twitter](https://twitter.com/TerryBl57840381)
 * Jaden Ackroyd - [Github](https://github.com/justacka/), [LinkedIn](linkedin.com/in/jadenackroyd), [Twitter](https://twitter.com/just_acka)
