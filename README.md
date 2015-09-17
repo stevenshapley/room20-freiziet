@@ -10,7 +10,7 @@ That old abandoned place you call home #room20
 * Wyatt Giles - [Github](https://github.com/WyattGiles), [LinkedIn](https://www.linkedin.com/in/wyattgiles), [Twitter](https://twitter.com/Wyatt_Giles)
 * Haley Bogle - [Github](https://github.com/HaleyBogle), [LinkedIn](https://www.linkedin.com/in/haleybogle), [Twitter](https://twitter.com/haley_bogle)
 * Terry Black - [Github](https://github.com/Blacksnblack), [LinkedIn](https://www.linkedin.com/in/black1), [Twitter](https://twitter.com/TerryBl57840381)
-* Jaden Ackroyd - [Github](https://github.com/justacka/), [LinkedIn](linkedin.com/in/jadenackroyd), [Twitter](https://twitter.com/just_acka)
+* Jaden Ackroyd - [Github](https://github.com/justacka/), [LinkedIn](https://linkedin.com/in/jadenackroyd), [Twitter](https://twitter.com/just_acka)
 * Taylor Bradshaw - [Github](https://github.com/taylorbrad), [LinkedIn](https://www.linkedin.com/in/markbradshaw1), [Twitter](https://twitter.com/M_Taylor_Brad)
 * Wade Rawlinson - [Github](https://github.com/Parzival0423), [LinkedIn](https://www.linkedin.com/in/Parzival0423), [Twitter](https://twitter.com/Parzival0423)
 * Austin Hampton - [Github](https://github.com/Austin914), [LinkedIn](https://www.linkedin.com/in/Austin914), [Twitter](https://twitter.com/AustinH914)
