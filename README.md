@@ -13,7 +13,7 @@ That old abandoned place you call home #room20
 * Jaden Ackroyd - [Github](https://github.com/justacka/), [LinkedIn](https://linkedin.com/in/jadenackroyd), [Twitter](https://twitter.com/just_acka)
 * Taylor Bradshaw - [Github](https://github.com/taylorbrad), [LinkedIn](https://www.linkedin.com/in/markbradshaw1), [Twitter](https://twitter.com/M_Taylor_Brad)
 * Wade Rawlinson - [Github](https://github.com/Parzival0423), [LinkedIn](https://www.linkedin.com/in/Parzival0423), [Twitter](https://twitter.com/Parzival0423)
-* Austin Hampton - [Github](https://github.com/Austin914), [LinkedIn](https://www.linkedin.com/in/Austin914), [Twitter](https://twitter.com/AustinH914)
+* Austin Hampton - [Github](https://github.com/Austin914), [LinkedIn](https://www.linkedin.com/in/austinh914), [Twitter](https://twitter.com/AustinH914)
 * Jarrett Minton - [Github](https://github.com/MintonJ), [LinkedIn](https://www.linkedin.com/in/JarrettMinton), [Twitter](https://twitter.com/Jarrett__M)
 * Cameron Dodds - [Github](https://github.com/camerondodds00), [LinkedIn](https://www.linkedin.com/in/camerondodds00), [Twitter](https://twitter.com/camerondodds00)
 * Mike Julander - [Github](https://github.com/NaH012), [LinkedIn](https://www.linkedin.com/in/MichaelJulander), [Twitter](https://twitter.com/Sodium_Hydrogen)
